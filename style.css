@@ -1,0 +1,423 @@
+.cont.{
+    display:flexbox;
+}
+.intro1{
+display:flex
+space:flexbox
+color:#ffffff
+}
+.btns{
+display:flexbox;
+space: around;
+}
+
+.bt1 {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-size: 15px ;
+    font-weight: 1000;
+    border: none;
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor:pointer;
+    
+      }
+.bt2{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-size: 15px ;
+    font-weight: 700;
+    border: none;  
+    margin-right: 30px; 
+    margin-left: 370px;
+    cursor:pointer;
+}
+.bt3{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-size: 15px ;
+    font-weight:100;
+    border: none;
+    margin-right: 30px; 
+    cursor:pointer;
+}   
+.bt4{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-size: 15px ;
+    font-weight:100;
+    border: none;
+    margin-right: 30px; 
+    cursor:pointer;
+}
+.bt5{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-size: 15px ;
+    font-weight:100;
+    border: none;
+    margin-right: 300px; 
+    cursor:pointer;
+}
+.bt6{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-size: 15px ;
+    font-weight: 700;
+    border: none;
+    margin-right: 20px;
+    cursor:pointer;
+}
+
+.bt7{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:black;
+    color: white;
+    font-size: 15px ;
+    font-weight: 900;
+    padding:10px 30px;
+    border-radius: 10px;
+    border:none;
+    cursor:pointer;
+}
+
+.walpaper-design2{
+    display:flex;
+    
+}
+.paragraph{
+   
+    margin-top: 20px;
+    height: 500px;
+    width:47%;
+    margin-left: 24px;
+    background-color:#f8f8fa;
+}
+
+.details{
+   margin-left:50px;
+   margin-top: 100px;
+}
+.trigory{
+    margin-left: 40px;
+    color:lightslategray;
+}
+
+.bnn{
+margin-left:40px;
+}
+.bt8{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:black;
+    color: white;
+    font-size: 15px ;
+    font-weight: 500;
+    padding:10px 30px;
+    border-radius: 10px;
+    border:none;
+    cursor:pointer;
+}
+
+.icon1{
+    
+    margin-top: 20px;
+    width:50px;
+}
+
+.work3{
+   margin-left: 40%;
+}
+.caption{
+    margin-left: -55px;
+}
+
+.caption2{
+    margin-right: 20px;
+}
+
+.information{
+display:flex
+}
+.info{
+    margin-left:100px;
+    margin-top:100px;
+}
+.enter{
+    margin-left: 0px;
+    color:lightslategray
+}
+.ensure{
+    margin-left:10px;
+    color:lightslategray
+}
+.safe{
+    
+    margin-left:0px;
+    color:lightslategray;
+    
+
+}
+.data-source{
+    margin-left:300px;
+    margin-top:70px;
+}
+.spending{
+    margin-left: 0px;
+    color:lightslategray
+}
+.easier{
+    margin-left: 10px;
+    color:lightslategray
+}
+.ency{
+    margin-left: 50px;
+    color:lightslategray
+}
+
+.card{
+    margin-left:250px;
+    margin-top:86px;
+}
+.add{
+    margin-left: 0px;
+    color:lightslategray
+}
+.your{
+    margin-left: 0px;
+    color:lightslategray
+}
+
+.int{
+    margin-left: 70px;
+    color:lightslategray
+}
+
+.image-download{
+    display:flex;
+    margin-left:100px
+}
+
+.impic{
+    margin-top:20px
+}
+.down{
+    margin-left:270px;
+}
+.download{
+    color:lightslategray
+}
+.for{
+    color:lightslategray
+}
+
+.quickly{
+    color:lightslategray
+}
+.apple{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:white;
+    color: black;
+    font-size: 15px ;
+    font-weight: 500;
+    
+    border-radius: 10px;
+    border-color: black;
+    cursor:pointer;
+}
+.play{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:white;
+    color: black;
+    font-size: 15px ;
+    font-weight: 500;
+    border-radius: 10px;
+    border-color: black;
+    cursor:pointer;
+}
+
+.connection{
+    display:flex;
+}
+.connection{
+    margin-left:100px;
+    
+}
+
+.con{
+    margin-top:100px;
+}
+.im{
+    margin-left:570px;
+    margin-top:-280px;
+}
+.btn10{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    font-size: 15px ;
+    font-weight: 500;
+    padding:10px 30px;
+    border-radius: 10px;
+    border-color:#2a2a2a; 
+    cursor:pointer;
+}
+.shelter{
+    margin-left:400px;
+    margin-top: 100px;
+}
+
+.sub{
+    font-size:25px
+}
+.fin{
+    margin-left:20px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.flex{
+    display:flex
+}
+
+
+.email{
+    margin-left:-110px;
+    margin-top:4px;
+}
+
+.email{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#f8f8fa;;
+    color: black;
+    padding: 10px 100px 10px 100px;
+    font-size: 15px ;
+    font-weight: 500; 
+    border:none;
+    cursor:pointer;
+}
+
+.bt11{
+    margin-left:100px;
+    
+}
+.bt11{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:black;
+    color:white;
+    font-size: 15px ;
+    font-weight: 500;
+    padding:10px 30px;
+    border-radius: 10px;
+    border:none;
+    cursor:pointer;
+}
+
+.footer{
+    display:flex;
+}
+
+.footer{
+background-color:#f8f8fa;
+margin-left:15px;
+margin-right:-1px;
+margin-top:150px
+}
+
+.first{
+ margin-left:80px;  
+    
+}
+
+.second{
+    margin-left:170px;
+    font: weight 1px;
+    font-size:11px;
+    color:
+}
+
+.third{
+    margin-left:200px;
+    font: weight 1px;
+    font-size:11px;
+}
+
+.fourth{
+    margin-left:247px;
+    margin-top:0px;
+    font: weight 1px;
+    font-size:11px;
+}
+
+.first-info{
+    margin-left:80px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.logos{display:flex;
+}
+
+.fb{
+  margin-left:73px;  
+}
+
+.insta{
+    margin-left:20px;
+}
+
+.twit{
+    margin-left:30px;
+}
+
+.copyright{
+    margin-left:75px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;   
+    font-size:10px
+}
+.second-info{
+    margin-left:170px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.third-info{
+    margin-left:200px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.fourth-info{
+    margin-left:250px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.last{
+    display:flex
+}
+.last{
+    margin-left:250px;
+    margin-top:130px;
+}
+
+.cr{
+    margin-left:-10px;
+    font-size:12px;
+    margin-top:7px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.ben{
+    margin-left:4px;
+    margin-top:2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:500;
+}
+}
